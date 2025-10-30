@@ -74,5 +74,9 @@ Sou estudante da FIAP, cursando Formação Full Stack, com foco em Back-End, ond
 
 </p>
 
-![Snake animation](https://github.com/manovares/manovares/blob/main/.github/workflows/cobrinha.yml)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manovares/manovares/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manovares/manovares/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/manovares/manovares/output/github-contribution-grid-snake.svg">
+</picture>
 
