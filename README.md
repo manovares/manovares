@@ -74,5 +74,5 @@ Sou estudante da FIAP, cursando Formação Full Stack, com foco em Back-End, ond
 
 </p>
 
-![Snake animation](https://github.com/manovares)
+![Snake animation](https://github.com/manovares/manovares/blob/main/.github/workflows/cobrinha.yml)
 
