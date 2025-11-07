@@ -96,3 +96,4 @@ Valorizo disciplina, aprendizado constante e resolução de problemas.
   />
 
 </p>
+![Snake animation](https://github.com/manovares)
