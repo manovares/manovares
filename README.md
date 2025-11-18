@@ -79,26 +79,27 @@ Valorizo disciplina, aprendizado constante e resolução de problemas.
 
 ### 📊 Estatísticas
 
-<p>
+<div align="center">
+
   <img 
-    align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=manovares&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api?username=manovares&show_icons=true&theme=tokyonight"
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=manovares&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    alt="Top Langs" 
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=manovares&theme=tokyonight&layout=compact"
   />
 
-</p>
+</div>
+
+##
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manovares/manovares/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manovares/manovares/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/manovares/manovares/output/github-contribution-grid-snake.svg">
 </picture>
+
