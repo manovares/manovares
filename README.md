@@ -79,26 +79,21 @@ Valorizo disciplina, aprendizado constante e resolução de problemas.
 
 ## 📊 Estatísticas
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
 
-<table>
-  <tr>
-    <td>
-      <img 
-        height="170" 
-        src="https://github-readme-stats.vercel.app/api?username=manovares&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-      />
-    </td>
-    <td>
-      <img 
-        height="170" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=manovares&layout=compact&theme=tokyonight&hide_border=true"
-      />
-    </td>
-  </tr>
-</table>
+  <img 
+    height="170"
+    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=manovares&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+
+  <img 
+    height="170"
+    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=manovares&layout=compact&theme=tokyonight&hide_border=true"
+  />
 
 </div>
+
+
 
 ##
 <picture>
