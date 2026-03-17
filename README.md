@@ -79,8 +79,6 @@ Valorizo disciplina, aprendizado constante e resolução de problemas.
 
 ## 📊 Estatísticas
 
-## 📊 Estatísticas
-
 <div align="center">
 
   <img 
