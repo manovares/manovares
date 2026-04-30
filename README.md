@@ -35,13 +35,13 @@ Hoje aplico essa mesma lógica no desenvolvimento de software, criando soluçõe
 <div align="center">
 
 <img 
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=manovares&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=manovares&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
 />
 
 <img 
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=manovares&layout=compact&theme=tokyonight&hide_border=true"
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=manovares&layout=compact&theme=tokyonight&hide_border=true&hide=html"
 />
 
 </div>
@@ -52,38 +52,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=manovares&la
     src="https://streak-stats.demolab.com?user=manovares&theme=tokyonight&hide_border=true"
   />
 </p>
-
----
-
-## 💼 Projetos em destaque
-
-🔹 Em breve...
-
-(Adicione aqui seus melhores projetos com descrição e link)
-
----
-
-## 📫 Contato
-
-<div>
-
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:seuemail@email.com">
-  <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</div>
-
----
-
-## 🧠 Filosofia
-
-> "Código bom resolve problema. Código excelente evita que ele aconteça."
-
----
 
 
 
